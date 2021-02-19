@@ -2,9 +2,6 @@
 # 这里是群友福利切勿分享每周更新
 
 
-<!-- PROJECT SHIELDS -->
-
-
 <!-- PROJECT LOGO -->
 <br />
 
