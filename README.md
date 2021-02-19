@@ -2,7 +2,12 @@
 # 这里是群友福利切勿分享每周更新
   <h3 align="center">关于代理</h3>
 <p align="center">
-    <a href="vmess://eyJhZGQiOiIyLjk5NjYubWwiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6ImQxMTkxZjQyLWI5ZjYtNDFjNC04ZjUxLWIwNTg2ZGIwYWVhYiIsIm5ldCI6IndzIiwicGF0aCI6Ii95dWVyIiwicG9ydCI6IjMzNDIzIiwicHMiOiLnvqTlj4vnpo/liKnor7fli7/liIbkuqvmr4/lkajmm7TmlrAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0="><strong>安卓用户长按此链接复制链接地址/电脑用户右键单击链接复制链接地址</strong></a>
+   <p style="text-align:center;">
+	<a href="vmess://eyJhZGQiOiIyLjk5NjYubWwiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6ImQxMTkxZjQyLWI5ZjYtNDFjNC04ZjUxLWIwNTg2ZGIwYWVhYiIsIm5ldCI6IndzIiwicGF0aCI6Ii95dWVyIiwicG9ydCI6IjMzNDIzIiwicHMiOiLnvqTlj4vnpo/liKnor7fli7/liIbkuqvmr4/lkajmm7TmlrAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=">安卓用户长按此链接复制链接地址/电脑用户右键单击链接复制链接地址</a> 
+</p>
+<p style="text-align:center;">
+	<br />
+</p>
     <br />
     <br />
     <a href="vmess://eyJhZGQiOiIyLjk5NjYubWwiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6ImQxMTkxZjQyLWI5ZjYtNDFjNC04ZjUxLWIwNTg2ZGIwYWVhYiIsIm5ldCI6IndzIiwicGF0aCI6Ii95dWVyIiwicG9ydCI6IjMzNDIzIiwicHMiOiLnvqTlj4vnpo/liKnor7fli7/liIbkuqvmr4/lkajmm7TmlrAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=">YouTube</a>
