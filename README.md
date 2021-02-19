@@ -8,10 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png">
-    <img src="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">陈风实验室</h3>
   <p align="center">
