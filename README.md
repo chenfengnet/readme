@@ -2,8 +2,6 @@
 # 这里是群友福利切勿分享每周更新
 
 
-分享 科技 数码 debug
-
 <!-- PROJECT SHIELDS -->
 
 
