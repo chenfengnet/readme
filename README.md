@@ -1,12 +1,5 @@
 
 # 这里是群友福利切勿分享每周更新
-
-
-<!-- PROJECT LOGO -->
-<br />
-
-
-
   <h3 align="center">陈风实验室</h3>
 <p align="center">
     <a href="https://jq.qq.com/?_wv=1027&k=WDjpAMt4"><strong>QQ群号码917391184</strong></a>
