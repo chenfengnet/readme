@@ -8,9 +8,7 @@
 
 
   <h3 align="center">陈风实验室</h3>
-  <p align="center">
-    这里有linux/安卓/虚拟化资源下载！
-    <br />
+
     <a href="https://jq.qq.com/?_wv=1027&k=WDjpAMt4"><strong>QQ群号码917391184</strong></a>
     <br />
     <br />
