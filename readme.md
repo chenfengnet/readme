@@ -25,9 +25,9 @@
     ·
     <a href="https://space.bilibili.com/441710267" target="_blank">哔哩哔哩</a>
     ·
-    <a href="https://chenfeng.de" target="_blank">个人博客</a>
+    <a href="https://ouc.cc" target="_blank">个人博客</a>
     ·
-    <a href="https://chenfeng.de" target="_blank">个人博客</a>
+    <a href="https://a.ouc.cc:5243" target="_blank">奥科网盘</a>
   </p>
 
  <p align="center">
