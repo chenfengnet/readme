@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/LOGO.png" alt="Logo" width="350" height="80">
   </a>
 
-  <h3 align="center">联通电脑安防旗舰店</h3>
+  <h3 align="center">河南奥科网络技术有限公司</h3>
   <p align="center">
     【开卡入网】【电脑维修】【电脑回收】【行业软件】
     <br />
