@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/chenfengnet/tuku@master/logo.png">
+  <a href="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/LOGO.png">
     <img src="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/  LOGO.png" alt="Logo" width="80" height="80">
   </a>
 
