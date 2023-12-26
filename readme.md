@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/LOGO.png">
-    <img src="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/LOGO.png" alt="Logo" width="360" height="80">
+    <img src="https://cdn.jsdelivr.net/gh/chenfengnet/readme@master/LOGO.png" alt="Logo" width="350" height="80">
   </a>
 
   <h3 align="center">联通电脑安防旗舰店</h3>
